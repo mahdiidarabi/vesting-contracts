@@ -1,2 +1,2 @@
-# vesting-contracts
-a set of smart contracts to handling the vesting
+# token-sale-contracts
+a set of smart contracts to handling the token sale 
